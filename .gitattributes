@@ -1,0 +1,2 @@
+# 统一行尾结束符为 LF（跨平台兼容）
+* text=auto eol=lf

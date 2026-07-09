@@ -1,0 +1,36 @@
+# =================================================================
+# 校园外卖两段式配送数据库系统 · .gitignore
+# =================================================================
+
+# 环境变量文件（包含数据库密码，切勿上传）
+.env
+
+# Python 虚拟环境
+venv/
+.venv/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook 临时文件
+.ipynb_checkpoints/
+
+# VS Code 个人设置（非团队共享配置）
+.vscode/settings.json
+
+# 操作系统垃圾文件
+Thumbs.db
+.DS_Store
+*.log
+.idea/
+
+# Office 临时锁文件
+~$*.docx
+~$*.pptx
