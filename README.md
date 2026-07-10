@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/sou1maker/database?style=flat-square&color=4F46E5" alt="Last Commit">
-  <img src="https://img.shields.io/github/repo-size/sou1maker/database?style=flat-square&color=06B6D4" alt="Repo Size">
+  <img src="https://img.shields.io/github/last-commit/tracy346454-ai/campus-delivery-db?style=flat-square&color=4F46E5" alt="Last Commit">
+  <img src="https://img.shields.io/github/repo-size/tracy346454-ai/campus-delivery-db?style=flat-square&color=06B6D4" alt="Repo Size">
   <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License">
 </p>
 
@@ -179,8 +179,8 @@ erDiagram
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/sou1maker/database.git
-cd campus_delivery_project
+git clone https://github.com/tracy346454-ai/campus-delivery-db.git
+cd campus-delivery-db
 
 # 2. 创建虚拟环境
 python -m venv venv
